@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626920575186",
+    "project_id": "e-learning-80e0e",
+    "storage_bucket": "e-learning-80e0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626920575186:android:c630f320427417bf8a5d0b",
+        "android_client_info": {
+          "package_name": "com.example.risehall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626920575186-v863nnu5di5c6k9psaile8lqqlh7dekl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXq9Ej55LH35s_oRpbfxMtaptGR3nJ3XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626920575186-v863nnu5di5c6k9psaile8lqqlh7dekl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
